@@ -1,4 +1,7 @@
-### Hi this is kevin
+### Hi this is kevin.
+
+Domain: NLP (Large Language Model Training & Serving), Computer Vision (Conditional Image Gneration)
+Interest: Front-End Design, Chatbot, AIoT
 
 <!--
 **kevinng77/kevinng77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
