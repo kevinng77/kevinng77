@@ -1,9 +1,5 @@
 ### Hi this is kevin.
 
-Domain: LLM (Large Language Model Training & Serving), Computer Vision (Conditional Image Gneration), Agent Design
-
-Interest: Front-End Design, AIoT, Agent
-
 Blog: https://kevinng77.github.io/
 <!--
 **kevinng77/kevinng77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
